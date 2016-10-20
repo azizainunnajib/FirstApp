@@ -3,7 +3,17 @@
     <string name="btn" />
     <string name="Username">Username</string>
     <string name="password">Password</string>
-
+    <string-array name="planets_array">
+        <item>Merkuri</item>
+        <item>Venus</item>
+        <item>Bumi</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Uranus</item>
+        <item>Neptunus</item>
+    </string-array>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
     <string name="action_settings">Settings</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="tab_1">kamu di tab 1</string>
